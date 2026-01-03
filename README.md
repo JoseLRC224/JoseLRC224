@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, José Luis! 👋 
 
-<!--
-**JoseLRC224/JoseLRC224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Linux Enthusiast
 
-Here are some ideas to get you started:
+I'm a developer passionate about clean code and the open-source ecosystem. Currently, I'm diving deep into **Fedora** and **Python** to build more efficient and secure tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Tools
+
+- **OS:** Fedora Linux 🐧
+- **Languages:** Python, JavaScript (Full Stack)
+- **Tools:** Brave Browser, Git, Ente Auth (Security First! 🔐)
+
+### 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseLRC224&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseLRC224&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Let's Connect
+- **LinkedIn:** [Tu-Enlace-Aquí]
+- **Portfolio:** [Tu-Enlace-Aquí]
+
+*"The best way to predict the future is to invent it."*
