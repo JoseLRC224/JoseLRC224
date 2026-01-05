@@ -20,7 +20,7 @@ I'm a developer passionate about clean code and the open-source ecosystem. Curre
 ---
 
 ### 🤝 Let's Connect
-- **LinkedIn:** [Tu-Enlace-Aquí]
-- **Portfolio:** [Tu-Enlace-Aquí]
+- **LinkedIn:** []
+- **Portfolio:** []
 
 *"The best way to predict the future is to invent it."*
